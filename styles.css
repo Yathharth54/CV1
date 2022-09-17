@@ -1,0 +1,27 @@
+body {
+  background-color: #EAF6F6;
+  font-family: cursive, Lucida Handwriting;
+}
+
+hr{
+  border-color: grey;
+  border-style: dotted none none;
+  border-width: 5px;
+  width: 10%;
+}
+
+h1{
+  text-decoration: overline;
+  text-decoration-color: #ABC9FF;
+  text-decoration-style: wavy;
+  text-shadow: 2px 2px 5px #ADCF9F;
+  color: #66BFBF;
+}
+
+h3{
+  text-decoration: overline;
+  text-decoration-color: #ABC9FF;
+  text-decoration-style: wavy;
+  text-shadow: 5px 5px 8px #ADCF9F;
+  color: #66BFBF;
+}
